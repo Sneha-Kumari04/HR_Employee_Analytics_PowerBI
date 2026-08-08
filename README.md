@@ -27,8 +27,8 @@ To transform employee data into an interactive dashboard that helps understand w
 
 ## Project Files
 
-* `HR_Employee_Analytics_Dashboard.pbix` — Power BI dashboard file
-* `Dashboard.png` — Dashboard preview
+* HR_Employee_Analytics_Dashboard.pbix — Power BI dashboard file
+* Dashboard.png — Dashboard preview
 
 ## Key Skills Demonstrated
 
